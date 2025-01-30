@@ -1,0 +1,49 @@
+button {
+  height: 3em;
+  width: 3em;
+  padding: 1.2em;
+  border-radius: 2em;
+  border: none;
+  margin: 0.5em;
+  color: #452cb6;
+  background-color: #2c2c2c;
+  font-size: 1.4em;
+}
+button:hover {
+  cursor: pointer;
+  transition: 0.3s;
+  height: 4em;
+  width: 4em;
+  margin: 0.1em;
+}
+#zero {
+  height: 3em;
+  width: 7em;
+}
+#zero:hover {
+  height: 3.6em;
+  width: 8em;
+  transition: 0.3s;
+}
+.wrapper {
+  background-color: #1b1b1b;
+  padding: 1em;
+  border-radius: 1em;
+  text-align: center;
+}
+.res {
+  color: #fff;
+  display: flex;
+  justify-content: end;
+  margin-right: 0.8em;
+  font-size: 2.5em;
+}
+.purple {
+  background-color: #b28dff;
+}
+.pink {
+  background-color: #ffb5e8;
+}
+.cyan {
+  background-color: #d4f1ff;
+}
